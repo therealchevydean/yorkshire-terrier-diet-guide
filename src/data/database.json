@@ -1,0 +1,190 @@
+{
+  "breed": "Yorkshire Terrier",
+  "breed_overview": {
+    "size_category": "Toy",
+    "average_weight_lbs": "2 to 7",
+    "average_lifespan_years": "12 to 15",
+    "metabolism": "High / Fast",
+    "common_health_sensitivities": [
+      "Hypoglycemia (especially in puppies)",
+      "Dental disease (periodontal issues due to small jaws)",
+      "Tracheal collapse",
+      "Portosystemic shunts (liver shunts)",
+      "Pancreatitis",
+      "Urolithiasis (bladder stones)",
+      "Patellar luxation"
+    ]
+  },
+  "nutritional_needs": {
+    "protein": {
+      "percentage_dry_matter": "22% - 28%",
+      "importance": "Essential for maintaining lean muscle mass, skin health, and their signature silky coat. High biological value animal proteins are preferred."
+    },
+    "fat": {
+      "percentage_dry_matter": "12% - 18%",
+      "importance": "Provides concentrated energy for their fast metabolism and supports skin and coat sheen. Omega-3 and Omega-6 fatty acids are crucial."
+    },
+    "carbohydrates": {
+      "percentage_dry_matter": "Moderated",
+      "importance": "Easily digestible complex carbs provide steady energy without spiking blood sugar, helping prevent hypoglycemia."
+    },
+    "fiber": {
+      "percentage_dry_matter": "3% - 5%",
+      "importance": "Promotes healthy digestion and prevents anal gland issues."
+    },
+    "hydration": {
+      "daily_water_ml_per_lb": "approx. 1 oz per pound of body weight",
+      "importance": "Crucial for kidney function and preventing urinary stone formation."
+    }
+  },
+  "life_stages": [
+    {
+      "stage": "Puppy",
+      "age_range_months": "2 to 12",
+      "feeding_frequency": "4 meals per day (strictly required up to 4-5 months to prevent hypoglycemia)",
+      "caloric_focus": "High energy density, balanced calcium-to-phosphorus ratio for bone growth, DHA for cognitive development."
+    },
+    {
+      "stage": "Adult",
+      "age_range_years": "1 to 8",
+      "feeding_frequency": "2 meals per day",
+      "caloric_focus": "Maintenance of ideal body condition score (BCS 4-5/9), dental kibble texture to reduce tartar."
+    },
+    {
+      "stage": "Senior",
+      "age_range_years": "8+",
+      "feeding_frequency": "2 smaller, easily digestible meals per day",
+      "caloric_focus": "Reduced calories to prevent obesity (joint protection), increased antioxidants, joint support (glucosamine/chondroitin), highly digestible proteins."
+    }
+  ],
+  "safe_foods": [
+    {
+      "food": "Plain Cooked Chicken Breast",
+      "category": "Lean Protein",
+      "benefits": "High digestibility, excellent source of lean amino acids.",
+      "preparation": "Boiled or baked with zero oils, seasonings, salt, garlic, or onions."
+    },
+    {
+      "food": "Plain Cooked Turkey",
+      "category": "Lean Protein",
+      "benefits": "Alternative lean protein source, highly palatable.",
+      "preparation": "Ensure all skin and bones are removed; unseasoned."
+    },
+    {
+      "food": "Pumpkin (Plain Canned)",
+      "category": "Vegetable / Fiber",
+      "benefits": "Regulates digestion, helps with both mild diarrhea and constipation, rich in beta-carotene.",
+      "preparation": "100% pure canned pumpkin puree (NOT pumpkin pie mix which contains sugar and spices)."
+    },
+    {
+      "food": "Sweet Potato",
+      "category": "Carbohydrate",
+      "benefits": "Rich in dietary fiber, vitamins A, C, and B6.",
+      "preparation": "Cooked thoroughly, peeled, and mashed or cubed without butter or sugar."
+    },
+    {
+      "food": "Carrots",
+      "category": "Vegetable / Snack",
+      "benefits": "Low-calorie crunch helps scrape away plaque; rich in beta-carotene and vitamin A.",
+      "preparation": "Raw baby carrots or cooked coin slices. Cut into appropriate small sizes to avoid choking hazards."
+    },
+    {
+      "food": "Blueberries",
+      "category": "Fruit / Antioxidant",
+      "benefits": "Packed with antioxidants, phytochemicals, and Vitamin C and K.",
+      "preparation": "Wash thoroughly. Feed in moderation (2-3 per day for a toy breed)."
+    },
+    {
+      "food": "Plain Low-Fat Yogurt or Kefir",
+      "category": "Dairy / Probiotic",
+      "benefits": "Supports gut microbiome and provides calcium.",
+      "preparation": "Unsweetened, plain, xylitol-free only (check labels carefully for artificial sweeteners)."
+    },
+    {
+      "food": "Salmon (Cooked)",
+      "category": "Fish / Omega-3",
+      "benefits": "Rich in Omega-3 fatty acids for anti-inflammatory support, coat shine, and brain health.",
+      "preparation": "Fully cooked through with all bones removed. Never feed raw salmon."
+    },
+    {
+      "food": "Green Beans",
+      "category": "Vegetable",
+      "benefits": "Low-calorie filler, rich in iron, calcium, and vitamins.",
+      "preparation": "Fresh or frozen, steamed or boiled plain with no salt or additives."
+    },
+    {
+      "food": "Eggs (Cooked)",
+      "category": "Protein",
+      "benefits": "Highly digestible complete protein and biotin for coat health.",
+      "preparation": "Scrambled or boiled plain without butter, salt, or oil."
+    }
+  ],
+  "toxic_foods": [
+    {
+      "food": "Chocolate (All types: Dark, Milk, White)",
+      "severity": "Critical / Emergency",
+      "toxicity_mechanism": "Contains theobromine and caffeine, which dogs cannot metabolize efficiently.",
+      "symptoms": "Vomiting, diarrhea, excessive thirst, restlessness, abnormal heart rhythm, seizures, death."
+    },
+    {
+      "food": "Grapes and Raisins",
+      "severity": "Critical / Emergency",
+      "toxicity_mechanism": "Unknown toxic principle, causes acute sudden kidney failure in dogs.",
+      "symptoms": "Vomiting, lethargy, loss of appetite, abdominal pain, lack of urination."
+    },
+    {
+      "food": "Onions, Garlic, Chives, and Leeks",
+      "severity": "High",
+      "toxicity_mechanism": "Contain disulfides and thiosulfates which damage red blood cells, causing oxidative hemolytic anemia.",
+      "symptoms": "Weakness, lethargy, pale gums, vomiting, elevated heart rate, dark urine."
+    },
+    {
+      "food": "Xylitol (Artificial Sweetener)",
+      "severity": "Critical / Emergency",
+      "toxicity_mechanism": "Triggers massive insulin release in dogs, leading to rapid, life-threatening hypoglycemia and acute liver failure.",
+      "symptoms": "Vomiting, lethargy, staggering, collapse, seizures within 15-30 minutes."
+    },
+    {
+      "food": "Macadamia Nuts",
+      "severity": "High",
+      "toxicity_mechanism": "Unidentified toxin affecting the neurological and muscular systems.",
+      "symptoms": "Muscle tremors, weakness, inability to walk, vomiting, hyperthermia."
+    },
+    {
+      "food": "Alcohol",
+      "severity": "Critical / Emergency",
+      "toxicity_mechanism": "Severe ethanol poisoning leading to central nervous system depression.",
+      "symptoms": "Vomiting, diarrhea, decreased coordination, breathing difficulties, coma, death."
+    },
+    {
+      "food": "Avocado (Pit, Skin, and Fruit)",
+      "severity": "Moderate to High",
+      "toxicity_mechanism": "Contains persin, a fungicidal toxin. The large pit also presents an immediate choking and intestinal obstruction hazard.",
+      "symptoms": "Vomiting, diarrhea, respiratory distress, abdominal congestion."
+    },
+    {
+      "food": "Caffeinated Beverages (Coffee, Tea, Energy Drinks)",
+      "severity": "High",
+      "toxicity_mechanism": "Caffeine stimulates the central nervous and cardiovascular systems.",
+      "symptoms": "Restlessness, rapid breathing, heart palpitations, muscle tremors, seizures."
+    },
+    {
+      "food": "Cooked Bones (Chicken, Turkey, Pork, Beef)",
+      "severity": "Critical",
+      "toxicity_mechanism": "Cooking makes bones brittle, causing them to splinter into sharp shards that pierce the digestive tract.",
+      "symptoms": "Choking, vomiting, bloody stools, abdominal pain, internal bleeding, bowel perforation."
+    },
+    {
+      "food": "Yeast Dough",
+      "severity": "High",
+      "toxicity_mechanism": "Yeast expands and ferments in the warm, moist environment of the stomach, producing ethanol and gas.",
+      "symptoms": "Severe abdominal bloating, pain, vomiting, lethargy, alcohol poisoning."
+    }
+  ],
+  "feeding_guidelines_and_tips": {
+    "hypoglycemia_prevention": "Yorkie puppies are extremely prone to low blood sugar. Always keep Nutri-Cal or Karo syrup on hand, and ensure they eat frequent small meals.",
+    "kibble_size": "Choose extra-small (toy breed) kibble sizes to accommodate tiny jaws and encourage proper chewing to reduce tartar buildup.",
+    "treat_limit": "Treats should comprise no more than 10% of their daily caloric intake to prevent nutritional imbalances and obesity.",
+    "hydration_tip": "Fresh, clean water must be accessible at all times in shallow, stable bowls."
+  }
+}
